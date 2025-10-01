@@ -1,0 +1,11 @@
+# Archivos de Python
+__pycache__/
+
+# Entornos Virtuales
+venv/
+.env
+
+# Archivos de PyInstaller (NO necesarios para el código fuente)
+build/
+dist/
+*.spec
